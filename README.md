@@ -6,9 +6,9 @@
 * /weapon <id> <primaryammo> <secondaryammo> - Give weapon
 * /jobs - Show avaible jobs
 * /police - Police job
-** /kontrola - Shows STOP to another player, works only for police mans
+* * /kontrola - Shows STOP to another player, works only for police mans
 * /doctor - Doctor job
-** /heal <id> - Heal player to 100HP, must be near 5 foots
+* * /heal <id> - Heal player to 100HP, must be near 5 foots
 * /taxidriver - Taxi driver job
 * /carjob - Spawn random job from your current job
 * /carfuck - Delete cars
